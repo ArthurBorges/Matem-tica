@@ -1,2 +1,2 @@
-# Matem-tica
+# Matemática
 Matemática no ensino médio
